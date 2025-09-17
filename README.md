@@ -5,13 +5,15 @@ It also provides visualizations and insights into student performance trends.
 
 ---
 
-## 🚀 Features
-- 📊 Interactive Streamlit web app
-- 🤖 Machine Learning model trained with Scikit-learn
-- 📈 Visualizations using Seaborn and Matplotlib
-- 📝 Input form to predict total score
-- 🔍 Data exploration with filters
+Features
+-  Interactive Streamlit web app
+-  Machine Learning model trained with Scikit-learn
+-  Visualizations using Seaborn and Matplotlib
+-  Input form to predict total score
+-  Data exploration with filters
 
 ---
 
-## 🗂️ Project Structure
+Output :
+
+https://studentproject-mtjhagnv57u8qleybep5mu.streamlit.app/
